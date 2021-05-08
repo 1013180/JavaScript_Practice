@@ -71,6 +71,10 @@ h1 {
   display: none;
   z-index: 9;
 }
+#sp-menu li {
+  text-align: center;
+  margin-bottom: 30px;
+}
 .box {
   height: 300px;
   width: 600px;
