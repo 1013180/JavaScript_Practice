@@ -57,9 +57,9 @@ h1 {
   transform: translateY(-20px) rotate(45deg);
   background-color: #fff;
 }
-/* ------------------------ */
-/* ------ spメニュー ------ */
-/* ------------------------ */
+.container {
+  height: 500px;
+}
 #sp-menu {
   position: fixed;
   top: 0;
